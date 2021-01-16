@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 I am a biophysicist with a passion for molecular modeling, currently 🔭 working on deep learning applications for life sciences.\
-I'm originally from 🏖️ Cuba, but I live in 🏔️ Vancouver, Canada now. My future goals 🌱 are improving my skills in Pytorch and NLP,\
+I'm originally from 🏖️ Cuba, but I live in 🏔️ Vancouver now. My future goals 🌱 are improving my skills in Pytorch and NLP,\
 and 💪🏼 creating stunning data visualizations with e.g. D3.js. Fun fact, I'm a terrible dancer 🕺 😞. 
 
 ### 🛠 &nbsp;Languages and Tools
