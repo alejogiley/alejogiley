@@ -23,7 +23,7 @@ and 💪🏼 creating stunning data visualizations with e.g. D3.js.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/alejandro-gilley"><img src="https://img.shields.io/badge/-alejandro%20gilley-ffffff?style=flat-square&logo=linkedin&logoColor=blue"/></a>
+<a href="https://www.linkedin.com/in/alejandro-gilley"><img src="https://img.shields.io/badge/-alejandro%E2%80%93gilley-ffffff?style=flat-square&logo=linkedin&logoColor=blue"/></a>
 <a href="https://twitter.com/alejogiley"><img src="https://img.shields.io/badge/-alejogiley-ffffff?style=flat-square&logo=Twitter&logoColor=blue"/></a>
 <a href="https://scholar.google.com/citations?user=yxP3dUUAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Gil%E2%80%93Ley%2C%20A-ffffff?style=flat-square&logo=Google-Scholar&logoColor=red"/></a>
 </p>
