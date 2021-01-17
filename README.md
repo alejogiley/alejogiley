@@ -4,7 +4,7 @@
 
 I am a biophysicist with a passion for molecular modeling, currently 🔭 working on deep learning applications for life sciences.\
 I'm originally from 🏖️ Cuba, but I live in 🏔️ Vancouver now. My future goals 🌱 are improving my skills in Pytorch and NLP,\
-and 💪🏼 creating stunning data visualizations with e.g. D3.js. Fun fact, I'm a terrible dancer 🕺 😞. 
+and 💪🏼 creating stunning data visualizations with e.g. D3.js. 
 
 ### 🛠 &nbsp;Languages and Tools
 
@@ -19,7 +19,7 @@ and 💪🏼 creating stunning data visualizations with e.g. D3.js. Fun fact, I'
 ![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat-square&logo=windows&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 
-### 🤝🏻 &nbsp;Social Media
+### 🤝🏻 &nbsp;Professional networks
 
 <p align="center">
 
