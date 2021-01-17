@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/alejogiley/alejogiley/main/header.png)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 I am a biophysicist with a passion for molecular modeling, currently 🔭 working on deep learning applications for life sciences.\
