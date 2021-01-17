@@ -30,5 +30,4 @@ and 💪🏼 creating stunning data visualizations with e.g. D3.js. Fun fact, I'
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=alejogiley&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejogiley&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=alejogiley&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=f5f5f5" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejogiley&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&bg_color=f5f5f5" />
