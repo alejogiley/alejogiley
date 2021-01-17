@@ -19,6 +19,16 @@ and 💪🏼 creating stunning data visualizations with e.g. D3.js. Fun fact, I'
 ![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat-square&logo=windows&logoColor=000000)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 
+### 🤝🏻 &nbsp;Social Media
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/alejandro-gilley"><img src="https://img.shields.io/badge/-alejandro%20gilley-ffffff?style=flat-square&logo=linkedin&logoColor=blue"/></a>
+<a href="https://twitter.com/alejogiley"><img src="https://img.shields.io/badge/-alejogiley-ffffff?style=flat-square&logo=Twitter&logoColor=blue"/></a>
+<a href="https://scholar.google.com/citations?user=yxP3dUUAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Gil%E2%80%93Ley%2C%20A-ffffff?style=flat-square&logo=Google-Scholar&logoColor=red"/></a>
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=alejogiley)](https://github.com/alejogiley)
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=alejogiley&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejogiley&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
