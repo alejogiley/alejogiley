@@ -6,6 +6,10 @@ I am a biophysicist with a passion for molecular modeling, currently 🔭 workin
 I'm originally from 🏖️ Cuba, but I live in 🏔️ Vancouver now. My future goals 🌱 are improving my skills in Pytorch and NLP,\
 and 💪🏼 creating stunning data visualizations with e.g. D3.js. 
 
+### 🪁 &nbsp;Interests
+
+Learning about filmmaking, specially how to shoot and light a scene. Hiking. Reading manga and comics, but mostly Eiichiro Oda, Jonathan Hickman or Grant Morrison. Amateur Barista, always looking for the best cup of espresso.
+
 ### 🛠 &nbsp;Languages and Tools
 
 ![Python](http://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=ffffff)
