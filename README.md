@@ -1,10 +1,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a biophysicist with a passion for molecular modeling, currently 🔭 working on deep learning applications for life sciences. I'm originally from 🏖️ Cuba, but I live in 🏔️ Cambridge, MA. My future goals 🌱 are to improve my skills in Pytorch and NLP, and 💪🏼 to create stunning data visualizations.
+I am a biophysicist passionate about molecular modeling, currently 🔭 working on deep learning applications for life sciences. I'm originally from 🏖️ Cuba, but I live in 🏔️ Cambridge, MA. My future goals 🌱 are to improve my skills in Pytorch and NLP, and 💪🏼 to create stunning data visualizations.
 
 ### 🪁 &nbsp;Interests
 
-Learning about filmmaking, especially how to shoot and light a scene. Hiking. Reading manga and comics, but mostly Eiichiro Oda, Jonathan Hickman or Grant Morrison. Amateur Barista, always looking for the best cup of espresso.
+I am learning about filmmaking, mainly how to shoot and light a scene. Hiking. Reading manga and comics, but mostly Eiichiro Oda, Jonathan Hickman, and Grant Morrison. Amateur Barista, always looking for the best cup of espresso.
 
 ### 🛠 &nbsp;Languages and Tools
 
