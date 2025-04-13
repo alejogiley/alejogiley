@@ -7,18 +7,16 @@ Hiking. Reading manga and comics. Amateur Barista, always looking for the best c
 
 ### 🛠 &nbsp;Languages and Tools
 
-![Python](http://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-808080?style=flat-square&logo=markdown)
-![GitLab](https://img.shields.io/badge/-GitLab-808080?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-808080?style=flat-square&logo=github)
-![Travis-CI](https://img.shields.io/badge/-Travis%20CI-dddddd?style=flat-square&logo=travis)
-![Nextflow](https://img.shields.io/badge/-Nextflow-f5f5f5?style=flat-square&logo=nextflow)
-![Pytorch](https://img.shields.io/badge/-Pytorch-f5f5f5?style=flat-square&logo=pytorch)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-f5f5f5?style=flat-square&logo=tensorflow)
-![Sklearn](https://img.shields.io/badge/-Scikit%20learn-f5f5f5?style=flat-square&logo=scikit-learn)
-![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat-square&logo=windows&logoColor=000000)
-![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
+![Python](http://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
+![C](http://img.shields.io/badge/-C-000000?style=flat-square&logo=c)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
+![Travis-CI](https://img.shields.io/badge/-Travis%20CI-000000?style=flat-square&logo=travis)
+![Nextflow](https://img.shields.io/badge/-Nextflow-000000?style=flat-square&logo=nextflow)
+![Pytorch](https://img.shields.io/badge/-Pytorch-000000?style=flat-square&logo=pytorch)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat-square&logo=tensorflow)
+![Sklearn](https://img.shields.io/badge/-Scikit%20learn-000000?style=flat-square&logo=scikit-learn)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
 
 ### 🤝🏻 &nbsp;Professional networks
 
