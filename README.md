@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a biophysicist passionate about molecular modeling, currently 🔭 working on deep learning applications for life sciences. I'm originally from 🏖️ Cuba, but I live in 🏔️ Cambridge, MA.
+I am a biophysicist passionate about molecular modeling, currently 🔭 working on deep learning applications for life sciences. I'm originally from 🏖️ Cuba, but I live in Cambridge, MA.
 ### 🪁 &nbsp;Interests
 
 Hiking. Reading manga and comics. Amateur Barista, always looking for the best cup of espresso.
